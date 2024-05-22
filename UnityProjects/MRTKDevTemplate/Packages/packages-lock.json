@@ -22,6 +22,13 @@
       },
       "hash": "7747a48d5e994db800b4c60a0a8b95a5ae2ce39f"
     },
+    "com.meta.xr.sdk.core": {
+      "version": "65.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.microsoft.mixedreality.openxr": {
       "version": "file:../../../ExternalDependencies/com.microsoft.mixedreality.openxr-1.10.0.tgz",
       "depth": 0,
